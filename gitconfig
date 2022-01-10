@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sir@chamallow.com
+	name = Pierre LEMASSON
